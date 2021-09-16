@@ -6,8 +6,5 @@ An interactive fiction game detailing the adventures of an office employee as he
 ## Implementation
 Created using Python 3.9
 
-## References
-[Zork, 1977 by Tim Anderson, Marc Blank, Dave Lebling, and Bruce Daniels](https://en.wikipedia.org/wiki/Zork)
-
 ## Created by
 Grace Richardson
